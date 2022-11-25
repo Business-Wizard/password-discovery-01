@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "ms-vsliveshare.vsliveshare",
+        "eamodio.gitlens",
+        "ms-python.isort",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "sourcery.sourcery",
+        "vscode-icons-team.vscode-icons",
+        "njpwerner.autodocstring",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens",
+        "davidanson.vscode-markdownlint"
+    ]
+}
