@@ -1,5 +1,5 @@
-DATAFILE_PATH: str = "data/rockyou.txt"
-SAMPLE_PATH: str = "data/small_sample.txt"
+DATAFILE_PATH: str = "data/raw/rockyou_small.txt"
+SAMPLE_PATH: str = "data/final/fraction_sample.txt"
 
 
 def take_sample(
